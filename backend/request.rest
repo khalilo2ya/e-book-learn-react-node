@@ -1,0 +1,14 @@
+// create user 1 role admin
+POST http://localhost:8800/books 
+Content-Type: application/json
+
+{ 
+    "title":"Test Ttile", 
+    "desc": "Test Description",
+    "cover": "cover_test.png"
+}
+
+// get book id 4
+###
+GET http://localhost:8800/books/4 
+Content-Type: application/json
