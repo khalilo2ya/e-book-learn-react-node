@@ -85,3 +85,24 @@ Below are some screenshots of the application:
 ### Update Book Page
 ![Update Book Page](captures/image03.jpg)
 
+<<<<<<< HEAD
+=======
+## Contributing
+
+If you want to contribute to this project, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+### Points à noter :
+
+1. **Images Capturées** : Les images capturées sont référencées à partir du dossier `captures`. Assure-toi que ces images sont effectivement dans le dossier `captures` dans ton dépôt GitHub.
+
+2. **Installation et Usage** : Les instructions sont données pour cloner le dépôt, installer les dépendances et démarrer les serveurs frontend et backend.
+
+3. **Technologies et Fonctionnalités** : Les principales technologies utilisées et les fonctionnalités de l'application sont décrites pour donner un aperçu clair du projet.
+
+N'oublie pas d'ajuster les instructions spécifiques et les chemins d'accès selon la structure réelle de ton projet et ton dépôt GitHub.
+>>>>>>> a92f5296aa3bd0f16d8528ab36a34fab37686a81
