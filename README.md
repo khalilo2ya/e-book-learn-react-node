@@ -1,6 +1,6 @@
 ### `README.md`
 
-```markdown
+
 # Book Shop Application
 
 ## Description
